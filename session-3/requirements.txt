@@ -1,0 +1,6 @@
+jupyterlab
+ipywidgets
+PyMuPDF
+openai
+ollama
+gradio
