@@ -4,4 +4,4 @@ The inputs are the topic, dates, and output type (PDF or Markdown).
 
 The application will fetch and summarise the papers and return a table of the fetched papers along with the output file (PDF or Markdown). 
 
-![The UI of the application is below](Arvix v0.jpg)
+![The UI of the application is below](Arvix_v0.jpg)
